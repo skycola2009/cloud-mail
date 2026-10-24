@@ -7,7 +7,7 @@ keep_vars = true
 enabled = true
 
 [[d1_databases]]
-binding = "DB"			#d1数据库绑定名默认不可修改
+binding = "db"			#d1数据库绑定名默认不可修改
 database_name = "email"		#d1数据库名字
 database_id = "97c6a692-8d00-427e-bc60-097b3401f325"		#d1数据库id
 
